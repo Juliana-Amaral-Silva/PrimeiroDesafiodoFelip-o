@@ -11,6 +11,10 @@ console.log(nomePokemon[0][0] + " level " + nomePokemon[0][2] +
     " Cadastrado com sucesso!! " + "Novo Registro " + nomePokemon[1][0] +
     " level " + nomePokemon[1][2] + 
     " Cadastrado com sucesso!!" + " Novo Registro " + nomePokemon[2][0] +
-    " level " + nomePokemon[3][2] + " Cadastrado com sucesso!!"
+    " level " + nomePokemon[3][2] + " Cadastrado com sucesso!!" +
+    " Novo Registro " + nomePokemon [3][0] + " level " + 
+    nomePokemon[3][2] + " Cadastrado com sucesso!!" +
+    " Novo Registro " + nomePokemon[4][0] + " level " +
+    nomePokemon[4][2] + " Cadastrado com sucesso!!"
 
 )
